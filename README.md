@@ -1,17 +1,33 @@
-- 👋 Hi, I’m @Oluwateezzy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there, Oluwafunmilayo Oluwatobiloba Olamide 👋
 
-<!---
-Oluwateezzy/Oluwateezzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+I'm a Software Engineer
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+I love the entire process of Software Development
 
-![Snake animation](https://github.com/oluwateezzy/oluwateezzy/blob/output/github-contribution-grid-snake.svg)
+🤝 Connect with me:
+
+oluwafunmilayo oluwatobiloba | LinkedIn
+
+oluwateezzy03 | Medium
+
+Xoxx_world | Twitter
+
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+🔭 I'm currently working on
+
+web3 project
+
+C with ALX Software Engineering project
+
+My Javascript skill
+
+My Typescript skill
+
+🌱 I'm currently learning
+
+📱 Python and other programming language
+
+Node js
+
+Design Pattern
