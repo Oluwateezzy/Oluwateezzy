@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 * 🖥️  See my portfolio at [A networking application](http://discuss-production.up.railway.app/)
 * ✉️  You can contact me at [oluwateezzy03@gmail.com](mailto:oluwateezzy03@gmail.com)
 * 🚀  I'm currently working on [AirBnB version 4](http://github.com/Oluwateezzy/AirBnB_clone.git)
-* 🧠  I'm learning SpringBoot
+* 🧠  I'm learning PHP Laravel
 * 🤝  I'm open to collaborating on Open Source Project
 * ⚡  I'm an Aerospace Enthusiast
 
