@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a strong f
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [oluwateezzy03@gmail.com](mailto:oluwateezzy03@gmail.com)
-* 🧠  I'm learning Database Engineering with meta
+* 🧠  I'm learning Ruby and Rust
 * 🤝  I'm open to internship to gain more industry experience
 * ⚡  I'm an Aerospace Science Enthusiast
 
