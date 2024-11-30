@@ -1,13 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================================================
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a strong focus on backend development. With extensive experience in building robust applications using Django(python), Node.js, and NestJS, I strive to create efficient, scalable, and secure solutions. My expertise lies in crafting well-structured code, designing database architectures, and implementing RESTful APIs. I thrive in collaborative environments, embracing new challenges and constantly seeking innovative ways to improve software performance and user experiences.
+I'm a software engineer with a strong focus on backend development. With extensive experience in building robust applications using Django(python), Node.js, NestJS, and SpringBoot I strive to create efficient, scalable, and secure solutions.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [oluwateezzy03@gmail.com](mailto:oluwateezzy03@gmail.com)
-* 🧠  I'm learning Ruby and Rust
-* 🤝  I'm open to internship to gain more industry experience
-* ⚡  I'm an Aerospace Science Enthusiast
+
 
 ### Skills
 
