@@ -2,7 +2,7 @@
 
 Hey there, I'm Oluwatobiloba a Software Developer from Nigeria 🇨🇦	
 
-Find me on LinkedIn ➡️ [https://www.linkedin.com/in/emmanuel-audu-826051163/](www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349)
+Find me on LinkedIn ➡️ [www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349/](www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349)
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQF4UQpsJ_2vdQ/profile-displaybackgroundimage-shrink_350_1400/0/1623272611188?e=2147483647&v=beta&t=JlNK3nuHS95IxBuB0qpQqdGZ6J6P8wmcBWvnkvOLXxc"/>
 
@@ -26,19 +26,19 @@ Find me on LinkedIn ➡️ [https://www.linkedin.com/in/emmanuel-audu-826051163/
 ## 📝 LATEST ARTICLES
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Amazon Lambda function with Amazon Lex to create a chatbot](https://medium.com/@kole-audu/using-amazon-lambda-function-with-amazon-lex-to-create-a-chatbot-f0f8975fc8bb)
-- [Build an OCR App with Django](https://medium.com/@kole-audu/build-an-ocr-app-with-django-2637f7c969c)
-- [Gatsby with Cockpit Headless CMS](https://medium.com/@kole-audu/gatsby-with-cockpit-headless-cms-9b20a52f8743)
-- [Transaction Fraud Detection with Classification Models](https://medium.com/geekculture/transaction-fraud-detection-with-classification-models-e32cf075f13a)
-- [Topic Modelling for Amazon Reviews](https://medium.com/geekculture/topic-modelling-for-amazon-review-9a06327f105a)
+- [Updating a Screen in React Native Without Reloading](https://medium.com/@oluwateezzy03/updating-a-screen-in-react-native-without-reloading-45f9c7f25b8b)
+- [Understanding Authentication Methods in API Security](https://medium.com/@oluwateezzy03/understanding-authentication-methods-in-api-security-09bd53814769)
+- [Creating a Flexible Prisma Module in NestJS](https://medium.com/@oluwateezzy03/creating-a-flexible-prisma-module-in-nestjs-710e0321ec5d)
+- [Understanding Asynchronous Operations in JavaScript](https://medium.com/@oluwateezzy03/understing-asynchronous-operations-in-javascript-acd7bcec12b9)
+- [Singleton Pattern in TypeScript](https://medium.com/@oluwateezzy03/singleton-pattern-in-typescript-5a4f6a178988)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 
-<a href="https://github.com/Emmanuel96">
+<a href="https://github.com/oluwateezzy">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=oluwateezzy" />
 </a>
-<a href="https://github.com/Emmanuel96">
+<a href="https://github.com/oluwateezzy">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwateezzy" />
 </a>
