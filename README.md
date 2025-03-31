@@ -1,6 +1,6 @@
 # Welcome 👋🏿
 
-Hey there, I'm Oluwatobiloba a Software Developer from Nigeria 🇨🇦	
+Hey there, I'm Oluwatobiloba a Software Developer from Nigeria
 
 Find me on LinkedIn ➡️ [www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349/](www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349)
 
