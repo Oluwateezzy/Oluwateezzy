@@ -2,7 +2,7 @@
 
 Hey there, I'm Oluwatobiloba a Software Developer from Nigeria
 
-Find me on LinkedIn ➡️ [www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349/](www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349)
+Find me on LinkedIn ➡️ `www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349`
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQF4UQpsJ_2vdQ/profile-displaybackgroundimage-shrink_350_1400/0/1623272611188?e=2147483647&v=beta&t=JlNK3nuHS95IxBuB0qpQqdGZ6J6P8wmcBWvnkvOLXxc"/>
 
