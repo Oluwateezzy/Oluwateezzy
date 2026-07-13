@@ -14,7 +14,7 @@ I don't just use tools I build them from scratch to understand how they work.
 
 ---
 
-## ⚡ What I Do
+## What I Do
 
 ```typescript
 const oluwatobiloba = {
@@ -153,7 +153,7 @@ A "spy movie" inspired surveillance system with **instant online detection** via
 
 I'm currently open to **Backend Engineer**, **Cloud Engineer**, and **Junior DevOps** roles.
 
-If you're building something interesting and need someone who understands systems at every layer — from the TCP socket to the database partition — let's talk.
+If you're building something interesting and need someone who understands systems at every layer — from the TCP socket to the database partition. let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Reach_out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluwatobiloba-oluwafunmilayo-9b9632349)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwateezzy03@gmail.com)
